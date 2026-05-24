@@ -49,8 +49,13 @@ The dataset used in this project is publicly available on Kaggle:
 ---
 
 ## 📂 Repository Structure
+
 ├── notebooks/             # Python scripts & Jupyter notebooks
+|
+|
 ├── reports/               # PDF reports & documentation
+|
+|
 └── README.md              # Project overview
 
 ---
@@ -69,15 +74,15 @@ The dataset used in this project is publicly available on Kaggle:
 ---
 
 📈 Conclusions
-Netflix is a movie-first platform.
+* Netflix is a movie-first platform.
 
-Mature content dominates ratings.
+* Mature content dominates ratings.
 
-US & India drive most of the catalog.
+* US & India drive most of the catalog.
 
-Peak growth was in 2018, followed by decline due to COVID & streaming wars.
+* Peak growth was in 2018, followed by decline due to COVID & streaming wars.
 
-Genres like Drama, International, Comedy dominate, while Kids, Horror, Sci-Fi are underrepresented.
+* Genres like Drama, International, Comedy dominate, while Kids, Horror, Sci-Fi are underrepresented.
 
 ---
 
