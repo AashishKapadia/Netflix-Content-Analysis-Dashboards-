@@ -46,17 +46,6 @@ The dataset used in this project is publicly available on Kaggle:
 | Visualization       | Tableau          |
 | Reporting           | Microsoft Word   |
 
----
-
-## 📂 Repository Structure
-
-├── notebooks/             # Python scripts & Jupyter notebooks
-|
-|
-├── reports/               # PDF reports & documentation
-|
-|
-└── README.md              # Project overview
 
 ---
 
